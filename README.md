@@ -1,4 +1,4 @@
-
+pip install -r requirements.txt
 # Wingo 1-Minute Prediction Bot
 
 This Telegram bot uses real API data to make 1-minute Wingo predictions with features like:
